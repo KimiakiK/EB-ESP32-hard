@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name EB-ESP32)(type KiCad)(uri ${KIPRJMOD}/EB-ESP32.pretty)(options "")(descr ""))
+)

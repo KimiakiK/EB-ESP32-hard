@@ -1,0 +1,48 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AE-ATM0130B3
+D TFT 1.3inch 240x240 ATM0130B3
+K tft ATM0130B3
+$ENDCMP
+#
+$CMP AE-BME280
+D Sensor temperature pressure humidity, AE280
+K  AE280 sensor temperature pressure humidity
+$ENDCMP
+#
+$CMP AE-MICRO-SD-DIP
+D Micro SD Connector
+K Micro SD
+$ENDCMP
+#
+$CMP AE-RX8900
+D RTC IC, RX8900, I2C
+K RTC RX8900
+$ENDCMP
+#
+$CMP AQM1602Y-RN-GBW
+D Character display 16x2, I2C
+K character display
+$ENDCMP
+#
+$CMP DBG-ESP32_CN
+D DBG-ESP32 Connector
+K esp32 connector
+$ENDCMP
+#
+$CMP DIP-ESP32-CN
+D ESP32 DIP Board Connector
+K esp32 connector
+$ENDCMP
+#
+$CMP EC12PLRGB
+D Rotary encoder, Push SW, RGB LED
+K rotary encoder
+$ENDCMP
+#
+$CMP MH-Z19C
+D Sensor CO2, MH-Z19C
+K MH-Z19C sensor co2
+$ENDCMP
+#
+#End Doc Library
